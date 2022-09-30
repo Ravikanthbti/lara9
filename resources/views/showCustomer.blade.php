@@ -6,6 +6,7 @@
 	<title>this is my title</title>
 </head>
 <body>
+	<h1>this is heading h1<h1>
 <p> customer name . {{$customer->name}}</p>
 <p> customer id .{{$customer->id }}</p>
 </body>
